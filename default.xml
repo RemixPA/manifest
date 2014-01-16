@@ -422,7 +422,7 @@
   
   <project path="frameworks/base" name="RemixPA/kk_android_frameworks_base" remote="github" revision="kk4.4" />
   
-  <project path="packages/apps/Halo" name="RemixPA/HALO" remote="github" revision="jb43"  />
+  <project path="packages/apps/Halo" name="RemixPA/HALO" remote="github" revision="kk4.4"  />
   <project path="packages/apps/Settings" name="RemixPA/android_packages_apps_Settings" remote="github" revision="kk4.4"  />
   
   <project path="vendor/pa" name="RemixPA/android_vendor_pa" remote="github" revision="kk4.4" >
