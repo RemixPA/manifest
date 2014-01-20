@@ -124,7 +124,7 @@
   <project path="external/fdlibm" name="platform/external/fdlibm" />
   <project path="external/flac" name="platform/external/flac" groups="pdk" />
   <project path="external/freetype" name="platform/external/freetype" groups="pdk" />
-  <project path="external/fsck_msdos" name="platform/external/fsck_msdos" />
+  <project name="CyanogenMod/android_external_fsck_msdos" path="external/fsck_msdos" remote="github" revision="cm-11.0" />
   <project path="external/ganymed-ssh2" name="platform/external/ganymed-ssh2" />
   <project path="external/gcc-demangle" name="platform/external/gcc-demangle" groups="pdk" />
   <project path="external/genext2fs" name="platform/external/genext2fs" />
@@ -249,8 +249,8 @@
   <project path="external/wpa_supplicant_8" name="CyanogenMod/android_external_wpa_supplicant_8" remote="cm" revision="cm-11.0" groups="pdk" />
   <project path="external/xmlwriter" name="platform/external/xmlwriter" />
   <project path="external/xmp_toolkit" name="platform/external/xmp_toolkit" />
-  <project path="external/yaffs2" name="platform/external/yaffs2" groups="pdk" />
-  <project path="external/zlib" name="platform/external/zlib" groups="pdk" />
+  <project name="CyanogenMod/android_external_yaffs2" path="external/yaffs2" remote="github" revision="cm-11.0" />
+  <project name="CyanogenMod/android_external_zlib" path="external/zlib" remote="github" revision="cm-11.0" />
   <project path="external/zxing" name="platform/external/zxing" />
   <project path="frameworks/av" name="AOSPA-legacy/android_frameworks_av" remote="github" revision="kitkat" groups="pdk" />
   <project path="frameworks/compile/libbcc" name="platform/frameworks/compile/libbcc" groups="pdk" />
@@ -315,7 +315,6 @@
   <project path="packages/apps/Nfc" name="platform/packages/apps/Nfc" />
   <project path="packages/apps/OneTimeInitializer" name="platform/packages/apps/OneTimeInitializer" />
   <project path="packages/apps/PackageInstaller" name="platform/packages/apps/PackageInstaller" />
-  <project path="packages/apps/ParanoidOTA" name="AOSPA/android_packages_apps_ParanoidOTA" remote="github" revision="kitkat" />
   <project path="packages/apps/PhoneCommon" name="platform/packages/apps/PhoneCommon" />
   <project path="packages/apps/Protips" name="platform/packages/apps/Protips" />
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision" />
@@ -420,6 +419,7 @@
   <project path="packages/apps/Dialer" name="RemixPA/android_packages_apps_Dialer" remote="github" revision="kk4.4" />
   <project path="packages/apps/DSPManager" name="CyanogenMod/android_packages_apps_DSPManager" remote="cm" revision="cm-11.0" />
   <project path="packages/apps/Halo" name="RemixPA/HALO" remote="github" revision="kk4.4"  />
+  <project path="packages/apps/ParanoidOTA" name="RemixPA/android_packages_apps_ParanoidOTA" remote="github" revision="kk4.4" />
   <project path="packages/apps/Settings" name="RemixPA/android_packages_apps_Settings" remote="github" revision="kk4.4" />
   
   <project path="vendor/pa" name="RemixPA/android_vendor_pa" remote="github" revision="kk4.4" >
