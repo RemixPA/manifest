@@ -167,7 +167,6 @@
   <project path="external/libnl-headers" name="platform/external/libnl-headers" groups="pdk" />
   <project path="external/libogg" name="platform/external/libogg" />
   <project path="external/libpcap" name="platform/external/libpcap" />
-  <project path="external/libphonenumber" name="platform/external/libphonenumber" />
   <project path="external/libpng" name="CyanogenMod/android_external_libpng" remote="cm" revision="cm-11.0" groups="pdk" />
   <project path="external/libppp" name="platform/external/libppp" />
   <project path="external/libselinux" name="CyanogenMod/android_external_libselinux" remote="cm" revision="cm-11.0" groups="pdk" />
@@ -413,6 +412,8 @@
   
   <project path="art" name="RemixPA/android_art" remote="github" revision="kk4.4" />
   <project path="bionic" name="AOSPAL/android_bionic" remote="github" revision="kitkat-legacy" />
+  
+  <project path="external/libphonenumber" name="RemixPA/android_external_libphonenumber" remote="github" revision="kk4.4" />
   
   <project path="frameworks/base" name="RemixPA/kk_android_frameworks_base" remote="github" revision="kk4.4" />
   
