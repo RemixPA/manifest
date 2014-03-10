@@ -281,6 +281,7 @@
   <project path="hardware/cm" name="CyanogenMod/android_hardware_cm" remote="cm" revision="cm-11.0" />
   <project path="hardware/libhardware" name="AOSPA-legacy/android_hardware_libhardware" remote="github" revision="kitkat" groups="pdk" />
   <project path="hardware/libhardware_legacy" name="AOSPA-legacy/android_hardware_libhardware_legacy" remote="github" revision="kitkat" groups="pdk" />
+  <project path="hardware/qcom/fm" name="CyanogenMod/android_hardware_qcom_fm" remote="cm" revision="cm-11.0" />
   <project path="hardware/ril" name="CyanogenMod/android_hardware_ril" remote="cm" revision="cm-11.0" groups="pdk" />
   <project path="libcore" name="CyanogenMod/android_libcore" remote="cm" revision="cm-11.0" />
   <project path="libnativehelper" name="platform/libnativehelper" groups="pdk-java" />
@@ -405,6 +406,9 @@
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" />
 
   <!-- REMIX PA Start here -->
+  <project path="build" name="RemixPA/kk_android_build" remote="github" revision="kk4.4" >
+    <copyfile src="core/root.mk" dest="Makefile" />
+  </project>
   <project path="manifest" name="RemixPA/manifest" remote="github" revision="kk4.4" />
   
   <project path="art" name="RemixPA/android_art" remote="github" revision="kk4.4" />
