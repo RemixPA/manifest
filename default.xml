@@ -36,6 +36,7 @@
   <project path="developers/samples/android" name="platform/developers/samples/android" />
   <project path="development" name="CyanogenMod/android_development" remote="cm" revision="cm-11.0" />
   <project path="device/common" name="CyanogenMod/android_device_common" remote="cm" revision="cm-11.0" />
+  <project path="device/qcom/common" name="CyanogenMod/android_device_qcom_common" remote="cm" revision="cm-11.0" />
   <project path="device/generic/armv7-a-neon" name="device/generic/armv7-a-neon" groups="pdk" />
   <project path="device/generic/common" name="device/generic/common" groups="pdk" />
   <project path="device/generic/goldfish" name="device/generic/goldfish" groups="pdk" />
