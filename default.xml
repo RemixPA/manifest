@@ -25,6 +25,7 @@
            sync-j="4" />
 
   <project path="abi/cpp" name="platform/abi/cpp" groups="pdk" />
+  <project path="bionic" name="CyanogenMod/android_bionic" remote="cm" revision="cm-11.0" />
   <project path="bootable/bootloader/legacy" name="platform/bootable/bootloader/legacy" />
   <project path="bootable/diskinstaller" name="platform/bootable/diskinstaller" />
   <project path="bootable/recovery" name="platform/bootable/recovery" groups="pdk" />
@@ -412,7 +413,6 @@
   <project path="manifest" name="RemixPA/manifest" remote="github" revision="kk4.4" />
   
   <project path="art" name="RemixPA/android_art" remote="github" revision="kk4.4" />
-  <project path="bionic" name="AOSPAL/android_bionic" remote="github" revision="kitkat-legacy" />
   
   <project path="external/libphonenumber" name="RemixPA/android_external_libphonenumber" remote="github" revision="kk4.4" />
   
