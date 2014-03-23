@@ -336,7 +336,6 @@
   <project path="packages/screensavers/Basic" name="platform/packages/screensavers/Basic" />
   <project path="packages/screensavers/PhotoTable" name="platform/packages/screensavers/PhotoTable" />
   <project path="packages/screensavers/WebView" name="platform/packages/screensavers/WebView" />
-  <project path="packages/services/Telephony" name="AOSPA-legacy/android_packages_services_Telephony" remote="github" revision="kitkat" />
   <project path="packages/wallpapers/Basic" name="platform/packages/wallpapers/Basic" />
   <project path="packages/wallpapers/LivePicker" name="platform/packages/wallpapers/LivePicker" />
   <project path="packages/wallpapers/PhaseBeam" name="platform/packages/wallpapers/PhaseBeam" />
@@ -427,6 +426,7 @@
   <project path="packages/apps/InCallUI" name="RemixPA/android_packages_apps_InCallUI" remote="github" revision="kk4.4" />
   <project path="packages/apps/ParanoidOTA" name="RemixPA/android_packages_apps_ParanoidOTA" remote="github" revision="kk4.4" />
   <project path="packages/apps/Settings" name="RemixPA/android_packages_apps_Settings" remote="github" revision="kk4.4" />
+  <project path="packages/services/Telephony" name="RemixPA/android_packages_services_Telephony" remote="github" revision="kk4.4" />
   
   <project path="vendor/pa" name="RemixPA/android_vendor_pa" remote="github" revision="kk4.4" >
     <copyfile src="build.sh" dest="mk" />    
