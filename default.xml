@@ -8,6 +8,9 @@
            fetch="https://github.com"
            review="gerrit.paranoidandroid.co" />
 
+  <remote  name="legacy-blobs"
+           fetch="https://github.com/ThankYouLuigi" />
+
   <remote  name="blobs"
            fetch="https://github.com/TheMuppets" />
 
@@ -147,7 +150,7 @@
   <project path="external/jhead" name="platform/external/jhead" groups="pdk" />
   <project path="external/jmdns" name="platform/external/jmdns" />
   <project path="external/jmonkeyengine" name="platform/external/jmonkeyengine" />
-  <project path="external/jpeg" name="platform/external/jpeg" groups="pdk" />
+  <project path="external/jpeg" name="CyanogenMod/android_external_jpeg" remote="cm" revision="cm-11.0" groups="pdk" />
   <project path="external/jsilver" name="platform/external/jsilver" />
   <project path="external/jsr305" name="platform/external/jsr305" />
   <project path="external/junit" name="platform/external/junit" />
