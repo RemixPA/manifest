@@ -393,7 +393,6 @@
   <project path="sdk" name="platform/sdk" />
   <project path="system/core" name="AOSPA-legacy/android_system_core" remote="github" revision="kitkat" />
   <project path="system/extras" name="CyanogenMod/android_system_extras" remote="cm" revision="cm-11.0"/>
-  <project path="system/media" name="CyanogenMod/android_system_media" remote="cm" revision="cm-11.0" groups="pdk" />
   <project path="system/netd" name="CyanogenMod/android_system_netd" remote="cm" revision="cm-11.0" groups="pdk" />
   <project path="system/qcom" name="CyanogenMod/android_system_qcom" remote="cm" revision="cm-11.0" groups="qcom" />
   <project path="system/security" name="CyanogenMod/android_system_security" remote="cm" revision="cm-11.0" groups="pdk" />
@@ -430,6 +429,8 @@
   <project path="packages/apps/ParanoidOTA" name="RemixPA/android_packages_apps_ParanoidOTA" remote="github" revision="kk4.4" />
   <project path="packages/apps/Settings" name="RemixPA/android_packages_apps_Settings" remote="github" revision="kk4.4" />
   <project path="packages/services/Telephony" name="RemixPA/android_packages_services_Telephony" remote="github" revision="kk4.4" />
+  
+  <project path="system/media" name="RemixPA/android_system_media" remote="github" revision="kk4.4" />
   
   <project path="vendor/pa" name="RemixPA/android_vendor_pa" remote="github" revision="kk4.4" >
     <copyfile src="build.sh" dest="mk" />    
