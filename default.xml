@@ -324,7 +324,6 @@
   <project path="packages/apps/SpeechRecorder" name="platform/packages/apps/SpeechRecorder" />
   <project path="packages/apps/Stk" name="CyanogenMod/android_packages_apps_Stk" remote="cm" revision="cm-11.0" />
   <project path="packages/apps/Tag" name="platform/packages/apps/Tag" />
-  <project path="packages/apps/Trebuchet" name="CyanogenMod/android_packages_apps_Trebuchet" remote="cm" revision="cm-11.0" />
   <project path="packages/apps/UnifiedEmail" name="platform/packages/apps/UnifiedEmail" />
   <project path="packages/experimental" name="platform/packages/experimental" />
   <project path="packages/inputmethods/LatinIME" name="platform/packages/inputmethods/LatinIME" />
@@ -428,6 +427,7 @@
   <project path="packages/apps/InCallUI" name="RemixPA/android_packages_apps_InCallUI" remote="github" revision="kk4.4" />
   <project path="packages/apps/ParanoidOTA" name="RemixPA/android_packages_apps_ParanoidOTA" remote="github" revision="kk4.4" />
   <project path="packages/apps/Settings" name="RemixPA/android_packages_apps_Settings" remote="github" revision="kk4.4" />
+  <project path="packages/apps/Trebuchet" name="RemixPA/android_packages_apps_Trebuchet" remote="github" revision="kk4.4" />
   <project path="packages/services/Telephony" name="RemixPA/android_packages_services_Telephony" remote="github" revision="kk4.4" />
   
   <project path="system/media" name="RemixPA/android_system_media" remote="github" revision="kk4.4" />
