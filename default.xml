@@ -303,7 +303,6 @@
   <project path="packages/apps/BluetoothExt" name="AOSPA-legacy/android_packages_apps_BluetoothExt" remote="github" revision="kitkat" />
   <project path="packages/apps/Calculator" name="CyanogenMod/android_packages_apps_Calculator" remote="cm" revision="cm-11.0" />
   <project path="packages/apps/Calendar" name="CyanogenMod/android_packages_apps_Calendar" remote="cm" revision="cm-11.0" />
-  <project path="packages/apps/Camera2" name="CyanogenMod/android_packages_apps_Camera2" remote="cm" revision="cm-11.0" />
   <project path="packages/apps/CellBroadcastReceiver" name="CyanogenMod/android_packages_apps_CellBroadcastReceiver" remote="cm" revision="cm-11.0" />
   <project path="packages/apps/CertInstaller" name="platform/packages/apps/CertInstaller" />
   <project path="packages/apps/Contacts" name="AOSPA-legacy/android_packages_apps_Contacts" remote="github" revision="kitkat" />
@@ -426,6 +425,7 @@
   <project path="frameworks/base" name="RemixPA/kk_android_frameworks_base" remote="github" revision="kk4.4" />
   
   <project path="packages/apps/Browser" name="RemixPA/android_packages_apps_Browser" remote="github" revision="kk4.4" />
+  <project path="packages/apps/Camera2" name="RemixPA/packages_apps_Camera2" remote="github" revision="kk4.4" />
   <project path="packages/apps/Dialer" name="RemixPA/android_packages_apps_Dialer" remote="github" revision="kk4.4" />
   <project path="packages/apps/DSPManager" name="RemixPA/android_packages_apps_DSPManager" remote="github" revision="kk4.4" />
   <project path="packages/apps/Halo" name="RemixPA/HALO" remote="github" revision="kk4.4" />
