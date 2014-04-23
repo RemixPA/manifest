@@ -20,3 +20,19 @@ Then to sync up:
 
     repo sync
 
+Get your working device tree that RemixPA already supported:
+
+    . build/envsetup.sh
+    getdevice {your-device-name}
+
+then you can get a device tree and then
+
+    lunch {your-device-name}
+
+to get later work prepared.
+
+Start build:
+
+    ./mk {device}
+or
+    mka bacon    
