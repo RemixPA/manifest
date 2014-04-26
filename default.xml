@@ -335,7 +335,6 @@
   <project path="packages/providers/ApplicationsProvider" name="platform/packages/providers/ApplicationsProvider" />
   <project path="packages/providers/CalendarProvider" name="platform/packages/providers/CalendarProvider" />
   <project path="packages/providers/ContactsProvider" name="CyanogenMod/android_packages_providers_ContactsProvider" remote="cm" revision="cm-11.0" />
-  <project path="packages/providers/DownloadProvider" name="CyanogenMod/android_packages_providers_DownloadProvider" remote="cm" revision="cm-11.0" />
   <project path="packages/providers/MediaProvider" name="AOSPA-legacy/android_packages_providers_MediaProvider" remote="github" revision="kitkat" />
   <project path="packages/providers/PartnerBookmarksProvider" name="platform/packages/providers/PartnerBookmarksProvider" />
   <project path="packages/providers/TelephonyProvider" name="AOSPA-legacy/android_packages_providers_TelephonyProvider" remote="github" revision="kitkat" />
@@ -435,6 +434,7 @@
   <project path="packages/apps/Settings" name="RemixPA/android_packages_apps_Settings" remote="github" revision="kk4.4" />
   <project path="packages/apps/Trebuchet" name="RemixPA/android_packages_apps_Trebuchet" remote="github" revision="kk4.4" />
   <project path="packages/services/Telephony" name="RemixPA/android_packages_services_Telephony" remote="github" revision="kk4.4" />
+  <project path="packages/providers/DownloadProvider" name="RemixPA/android_packages_providers_DownloadProvider" remote="github" revision="kk4.4" />
   
   <project path="system/media" name="RemixPA/android_system_media" remote="github" revision="kk4.4" />
   
