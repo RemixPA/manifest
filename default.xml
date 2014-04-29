@@ -429,7 +429,6 @@
   <project path="packages/apps/Camera2" name="RemixPA/packages_apps_Camera2" remote="github" revision="kk4.4" />
   <project path="packages/apps/Dialer" name="RemixPA/android_packages_apps_Dialer" remote="github" revision="kk4.4" />
   <project path="packages/apps/DSPManager" name="RemixPA/android_packages_apps_DSPManager" remote="github" revision="kk4.4" />
-  <project path="packages/apps/Halo" name="RemixPA/HALO" remote="github" revision="kk4.4" />
   <project path="packages/apps/InCallUI" name="RemixPA/android_packages_apps_InCallUI" remote="github" revision="kk4.4" />
   <project path="packages/apps/ParanoidOTA" name="RemixPA/android_packages_apps_ParanoidOTA" remote="github" revision="kk4.4" />
   <project path="packages/apps/Settings" name="RemixPA/android_packages_apps_Settings" remote="github" revision="kk4.4" />
