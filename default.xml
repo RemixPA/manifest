@@ -318,7 +318,6 @@
   <project path="packages/apps/Mms" name="AOSPA-legacy/android_packages_apps_Mms" remote="github" revision="kitkat" />
   <project path="packages/apps/Nfc" name="platform/packages/apps/Nfc" />
   <project path="packages/apps/OneTimeInitializer" name="platform/packages/apps/OneTimeInitializer" />
-  <project path="packages/apps/PackageInstaller" name="platform/packages/apps/PackageInstaller" />
   <project path="packages/apps/PhoneCommon" name="platform/packages/apps/PhoneCommon" />
   <project path="packages/apps/Protips" name="platform/packages/apps/Protips" />
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision" />
@@ -431,6 +430,7 @@
   <project path="packages/apps/DSPManager" name="RemixPA/android_packages_apps_DSPManager" remote="github" revision="kk4.4" />
   <project path="packages/apps/InCallUI" name="RemixPA/android_packages_apps_InCallUI" remote="github" revision="kk4.4" />
   <project path="packages/apps/ParanoidOTA" name="RemixPA/android_packages_apps_ParanoidOTA" remote="github" revision="kk4.4" />
+  <project path="packages/apps/PackageInstaller" name="RemixPA/android_packages_apps_PackageInstaller" remote="github" revision="kk4.4" />
   <project path="packages/apps/Settings" name="RemixPA/android_packages_apps_Settings" remote="github" revision="kk4.4" />
   <project path="packages/apps/Trebuchet" name="RemixPA/android_packages_apps_Trebuchet" remote="github" revision="kk4.4" />
   <project path="packages/services/Telephony" name="RemixPA/android_packages_services_Telephony" remote="github" revision="kk4.4" />
